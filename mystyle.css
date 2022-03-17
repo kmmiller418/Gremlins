@@ -1,7 +1,8 @@
 body {
-    background-color: gainsboro;
-}
-
+    background-image:
+        url('https://upload.wikimedia.org/wikipedia/commons/e/ee/Campilhas_July_2015-1.jpg');
+    }
+    
 .header {
     background-color: aliceblue;
     padding: .5em;
